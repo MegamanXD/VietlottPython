@@ -1,4 +1,4 @@
-A project done to help me self-learn Python
+A project done to help me self-learn Python. To run the program, run the Main class.
 ## Features
 
 _ Add/edit/delete/view a list of customer.
